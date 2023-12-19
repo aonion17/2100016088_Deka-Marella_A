@@ -12,6 +12,7 @@
 
 1. Clone / Download repository ini
 2. Buka terminal, lalu masuk ke direktori project ini
+    - Pastikan sudah menginstall `nodejs` dan `npm` pada komputer anda, jika belum, silahkan install terlebih dahulu melalui [link ini](https://nodejs.org/en/download/)
 3. Jalankan perintah `npm install` atau `npm i` untuk menginstall dependency yang dibutuhkan
 4. Jalankan perintah `npm run test` atau `npm test` untuk menjalankan test
 5. Kerjakan tugas
