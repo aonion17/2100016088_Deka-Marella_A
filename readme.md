@@ -28,6 +28,6 @@ Jalankan test menggunakan `npm run test` atau `npm test` untuk menguji apakah pe
 > - Jangan merubah kode program yanng diberikan, kecuali ada instruksi untuk merubahnya / memasukkan kode program tambahan.
 > - Tugas unit testing ini telah dirancang untuk `PASS`, sehingga jika ada test case yang masih `FAIL`, silahkan diperbaiki lagi kode program yang dibuat. 
 
-Kumpulkan tugas yang telah selesai kalian kerjakan dengan cara push ke repository github kalian masing masing (**Pastikan agar Repository kalian Public**), lalu kirimkan link repository kalian ke-[link ini](https://forms.gle/GUcjuzYYjBnTxRDW6) sebelum **Minggu, 24 Desember 2023 Pukul 23.59 WIB**.`
+Kumpulkan tugas yang telah selesai kalian kerjakan dengan cara push ke repository github kalian masing masing (**Pastikan agar Repository kalian Public**), lalu kirimkan link repository kalian ke-[link ini](https://forms.gle/BShywhWb2xQywkYd7) sebelum **Senin, 25 Desember 2023 Pukul 20.00 WIB**.`
 
     
