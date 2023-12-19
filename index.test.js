@@ -1,5 +1,6 @@
 // NOTE - Tulis kode pengujian disini
 // Path: test.index.js
+// ! Dont change this code
 const { capitalize, filterOddNumber, epochDateToUTC } = require("./index");
 const { expect, describe, test } = require("@jest/globals");
 
@@ -11,7 +12,7 @@ const { expect, describe, test } = require("@jest/globals");
  */
 describe("Capitalize", () => {
   test("should return uppercased Hello", () => {
-    // Write ur code here!
+    // Write ur test-code here!
   });
 
   // write another 3 test case here!
@@ -37,7 +38,7 @@ describe("FilterOddNumber", () => {
  */
 describe("EpochDateToUTC", () => {
   it("should return Thu, 01 Jan 1970 00:00:00 GMT", () => {
-    // Write ur code here!
+    // Write ur test-code here!
   });
 
   // write another 3 test case here!
