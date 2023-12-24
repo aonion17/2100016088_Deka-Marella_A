@@ -6,7 +6,7 @@ const capitalize = (str) => {
 // @ Try to check and change the filterOddNumber function
 // Ex: given param = [1, 2, 3, 4, 5], then return must [2, 4] not "1,3,5"
 const filterOddNumber = (arr) => {
-  return arr.filter((num) => num % 2 !== 0).toString();
+  return arr.filter((num) => num % 2 === 0);
 };
 /**
  * Write your description here, why the function is not working?
